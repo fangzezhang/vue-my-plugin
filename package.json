@@ -1,6 +1,6 @@
 {
   "name": "vue-my-plugin",
-  "version": "0.0.1-0",
+  "version": "0.0.1",
   "description": "test Vue custom plugin, to understand company's vue plugin",
   "main": "index.js",
   "scripts": {
