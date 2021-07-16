@@ -1,0 +1,11 @@
+{
+  "name": "vue-my-plugin",
+  "version": "0.0.0",
+  "description": "test Vue custom plugin, to understand company's vue plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fang-zezhang",
+  "license": "ISC"
+}
