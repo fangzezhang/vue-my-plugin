@@ -1,5 +1,5 @@
 {
-  "name": "vue-my-plugin",
+  "name": "vue-fzz-plugin",
   "version": "0.0.1",
   "description": "test Vue custom plugin, to understand company's vue plugin",
   "main": "index.js",
